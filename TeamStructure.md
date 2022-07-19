@@ -28,17 +28,22 @@
     - Students lead the team and make important decisions
     - Leadership Structure
 
-    Team Captain
-    |___ Engineering Director
-    |---|__ Design and Fab Lead
-    |---|__ Controls Lead
-    |
-    |__ Operations Director
-    ---|__ Bussiness and Media Lead
-    ---|__ Outreach Lead
-    ---|__ Strategy and Scouting Lead
+    |               |                       |                               |
+    | ------------- | --------------------- | ----------------------------- |
+    | Team Captain  |                       |                               |
+    |               | Engineering Director  |
+    |               |                       |
+    |               |                       | Design and Fab Lead           |
+    |               |                       | Controls Lead                 |
+    |               | Operations Director   |
+    |               |                       | Bussiness and Media Lead      |
+    |               |                       | Outreach Lead                 |
+    |               |                       | Strategy and Scouting Lead    |
 
 - Logistics
     * Time Tracking (Roboteers a have system setup)
         - Local server that can host a webpage and a datebase of student hours
         - would let some programmers not interested in embedded systems something do
+    * Subteam collection
+        - Require Engineering invovment and Opertaions involvment
+        - 80% of recored time in primary subteam and 20% in secondary subteam
