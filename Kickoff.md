@@ -5,7 +5,7 @@
 - Assign years to students to look back through FRC games to find common themes and usefull designs
 - Parents are involved
 - Everyone gives ideas (Bring new ideas and involve everyone to talk)
-- NO idea is not crazy. Some the the best ideas are the most efficient (Tremont Climb - Shoot and Move)
+- NO idea is not crazy. Some the the best ideas are the most efficient (2481 Climb - 1706 Shoot and Move)
 - Think Einstien robot
 - Prototype, Prototype, Prototype
 
@@ -24,3 +24,4 @@
 
 ## Day After Kickoff - BEGIN DISCUSSION ON ROBOT DESIGN
 - Robot design
+- Set team goal (Win Regionals/Divisions/Worlds)
