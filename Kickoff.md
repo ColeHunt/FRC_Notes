@@ -20,7 +20,7 @@
 3. Rule breakdown session for students and mentors | Parent Meeting
 4. Lunch
 5. Robot WILL DO list
-6. Brainstorm Best Auto
+6. Brainstorm Best Auto and what that means for a robot
 
 ## Day After Kickoff - BEGIN DISCUSSION ON ROBOT DESIGN
 - Robot design
