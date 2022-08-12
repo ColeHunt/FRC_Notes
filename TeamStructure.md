@@ -66,3 +66,6 @@ The MARS/WARS program is about teaching students usefull skills and the applicat
 - Documentation and Branding
     * Create a more defined Documentation standard
     * Create a Brand standard to ensure contuninty in public release materials
+
+- Reintroduce project tracking software for industry practices
+    * Monday is free for FIRST Teams
