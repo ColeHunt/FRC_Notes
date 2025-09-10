@@ -66,40 +66,40 @@ flowchart TD
 
 # Team Roles and Expectations
 ## Core Leadership
-- Captain:
+- **Captain**:
   This student is the team leader or president. They should be the student face of the team. They can lead all team meetings.
-- Robot Lead:
+- **Robot Lead**:
   This students is in charge of all robot groups.
-- Business Lead:
+- **Business Lead**:
   This student is the head of the Business Services team, but we want to ensure they have representation in the core leadership.
-- 4423 Core Rep:
+- **4423 Core Rep**:
   This student is the "head" of the 4423 and acts as a voice for JV to the core leadership.
 
 ## Software Team
 General members of this group will work on all elements of the robot/scouting software as needed. Any student with a software focus will fall under this group.
-- Software Lead:
+- **Software Lead**:
   This student is the lead for the software team. They meet with the software mentors to plan out tasks and report progress to the robot lead.
-- Vision Lead:
+- **Vision Lead**:
   This student manages the vision systems for the robot (ML and Localization). They don't "manage" anyone directly, but own the project.
-- Scouting App Lead:
+- **Scouting App Lead**:
   This student manages the scouting system (App and Dashboard). They don't "manage" anyone directly, but own the project.
 
 ## Design Team
 General members of this group will work on all elements of the design/fab as needed. Any student with a design focus will fall under this group.
-- Design Lead:
+- **Design Lead**:
   This student is the lead for the design team. They meet with the design mentors and the other subsystem leads to plan out tasks and report progress to the robot lead.
-- Subsystem Lead X:
+- **Subsystem Lead X**:
   These students are the leads for the given subsystem. They meet with the design mentors and the other subsystem leads to plan out tasks and report progress to the robot lead. However they are more focused on the specific subsystem.
 
 ## Business Services
 General members of this group will work on all elements of business services. Any student with a business services focus will fall under this group.
-- Outreach Lead:
+- **Outreach Lead**:
   This student manages the outreach events like K8 programs and MARS/SPARKS. They don't "manage" anyone directly, but own the project.
 
 ## 4423 Reps
 *These roles can be more flexible and even change weekly if we want. Just a way to get younger students exposed to the leadership structure.*
-- 4423 Software Rep: A Software student to act as the lead for the JV software members. They can meet with the software mentors to discuss tasks to be completed.
-- 4423 Design Rep: A Design student to act as the lead for the JV design members. They can meet with the design mentors to discuss tasks to be completed.
+- **4423 Software Rep**: A Software student to act as the lead for the JV software members. They can meet with the software mentors to discuss tasks to be completed.
+- **4423 Design Rep**: A Design student to act as the lead for the JV design members. They can meet with the design mentors to discuss tasks to be completed.
 
 # FAQ
   - How would we do this? We don't have the kids to fill these roles
@@ -115,6 +115,7 @@ General members of this group will work on all elements of business services. An
       - Eli Reutter
       - Nathan Stanley
       - Will Rajtora
+      - Callumn McGrane
 
   - How are the kids going to make big directional decisions?
     - We aren't going to ask the kids to make decision like "ground pickup design or total robot architecture". The idea is that they just have a seat at the table and are present when mentors are making these decisions. They then relay and "manage" a group/project to complete the concept.
@@ -134,9 +135,12 @@ I reached out to a few more recent alumni and collect some feedback and opinions
 - "I think that greatly depends on the student providing the task as well as who it is being received from. I can definitely see students letting a title get to their head. Or only taking tasks/ orders from the person they were assigned to. But I think overall, assuming the students trust that their leader has a good understanding of the project, it would work well."
 
 ### Josh Tobben
+- "I think as a student a more structured leadership approach would’ve benefited my leadership and teamwork skills. Another benefit would be if one team is swamped with one work and one doesn’t have enough, that can be communicated by leaders at leader meetings, and teams can collaborate to help each other."
+- " Personally I would not have had any issues reporting to another student or having students report to me; I think that it would be easier to report to your peers than your mentors."
 
 ### Katie Hunt
 - "I believe that the team would benefit from having this kind of structure. I feel like the team has struggled with having determined students that care for robotics/the team. I know that my graduating class had several students that would put in the required time and so much more. The years after seemed to struggle with students that cared as much and it showed not only on the robot side but also on the social/volunteer side. I believe if this leadership structure was in place it would help build motivated students and make the team truly what FIRST desires.
 - "The leadership roles would help build non-technical skills. The technical knowledge is a lot of what FIRST hopes to give the students but there is a lot to say for someone in the workforce that has soft skills. From my experience, having these soft skills, like leadership is very important when it comes to interviews. I had to interview for my degree program and a lot of questions had to deal with how I work in a team and leadership skills.
 Not only would the leadership roles benefit the team and students, but it would also benefit the mentors. Having two family members being mentors, I've witnessed the feelings of frustration about the lack of student involvement. Without that involvement the mentors have to make up for it and it puts more on your mentors that are already volunteering their time."
+
 - "I think the first couple years might be harder for students to report to other students but I think that's just because it will be new and returning students and mentors won't be used to that idea. If you implement this structure I think it would be really important for all the mentors to be in on it because once you have a mentor not follow the structure, then the students think they won't have to follow it either."
