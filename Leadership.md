@@ -110,7 +110,7 @@ General members of this group will work on all elements of business services. An
 
   - How would we pick the leaders?
     - Through an application and interview process. Originally it would have to be just mentors, but in future years it could be the decision between existing/exiting leadership and related mentors.
-    - Currently that prospective list would be"
+    - Currently that prospective list would be
       - Jax Bequette
       - Eli Reutter
       - Nathan Stanley
@@ -134,6 +134,10 @@ I reached out to a few more recent alumni and collect some feedback and opinions
 - "It felt like last year, there were a few people doing the majority of the work, both because they had the most experience with it and they were the most motivated. Having some defined titles would definitely help motivate those people and give them a specific topic to gain experience in. I can definitely imagine some of my peers, in the listed positions. I think it would also make them feel more included, since some times they were bummed not to have a have a drive team title."
 - "I think that greatly depends on the student providing the task as well as who it is being received from. I can definitely see students letting a title get to their head. Or only taking tasks/ orders from the person they were assigned to. But I think overall, assuming the students trust that their leader has a good understanding of the project, it would work well."
 
+### Victoria Truelove
+“I really like this idea! Looking at this from a career perspective, this would not only look great on a resume, but give students a lot of leadership experience and a better idea of what it is like in a career environment."
+- "As long as the team makes sure the ideas and concerns of those working under students are still heard and considered, I think it'd work well!"
+
 ### Josh Tobben
 - "I think as a student a more structured leadership approach would’ve benefited my leadership and teamwork skills. Another benefit would be if one team is swamped with one work and one doesn’t have enough, that can be communicated by leaders at leader meetings, and teams can collaborate to help each other."
 - " Personally I would not have had any issues reporting to another student or having students report to me; I think that it would be easier to report to your peers than your mentors."
@@ -142,5 +146,5 @@ I reached out to a few more recent alumni and collect some feedback and opinions
 - "I believe that the team would benefit from having this kind of structure. I feel like the team has struggled with having determined students that care for robotics/the team. I know that my graduating class had several students that would put in the required time and so much more. The years after seemed to struggle with students that cared as much and it showed not only on the robot side but also on the social/volunteer side. I believe if this leadership structure was in place it would help build motivated students and make the team truly what FIRST desires.
 - "The leadership roles would help build non-technical skills. The technical knowledge is a lot of what FIRST hopes to give the students but there is a lot to say for someone in the workforce that has soft skills. From my experience, having these soft skills, like leadership is very important when it comes to interviews. I had to interview for my degree program and a lot of questions had to deal with how I work in a team and leadership skills.
 Not only would the leadership roles benefit the team and students, but it would also benefit the mentors. Having two family members being mentors, I've witnessed the feelings of frustration about the lack of student involvement. Without that involvement the mentors have to make up for it and it puts more on your mentors that are already volunteering their time."
-
 - "I think the first couple years might be harder for students to report to other students but I think that's just because it will be new and returning students and mentors won't be used to that idea. If you implement this structure I think it would be really important for all the mentors to be in on it because once you have a mentor not follow the structure, then the students think they won't have to follow it either."
+
