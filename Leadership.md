@@ -135,7 +135,7 @@ I reached out to a few more recent alumni and collect some feedback and opinions
 - "I think that greatly depends on the student providing the task as well as who it is being received from. I can definitely see students letting a title get to their head. Or only taking tasks/ orders from the person they were assigned to. But I think overall, assuming the students trust that their leader has a good understanding of the project, it would work well."
 
 ### Victoria Truelove
-“I really like this idea! Looking at this from a career perspective, this would not only look great on a resume, but give students a lot of leadership experience and a better idea of what it is like in a career environment."
+- “I really like this idea! Looking at this from a career perspective, this would not only look great on a resume, but give students a lot of leadership experience and a better idea of what it is like in a career environment."
 - "As long as the team makes sure the ideas and concerns of those working under students are still heard and considered, I think it'd work well!"
 
 ### Josh Tobben
@@ -147,4 +147,5 @@ I reached out to a few more recent alumni and collect some feedback and opinions
 - "The leadership roles would help build non-technical skills. The technical knowledge is a lot of what FIRST hopes to give the students but there is a lot to say for someone in the workforce that has soft skills. From my experience, having these soft skills, like leadership is very important when it comes to interviews. I had to interview for my degree program and a lot of questions had to deal with how I work in a team and leadership skills.
 Not only would the leadership roles benefit the team and students, but it would also benefit the mentors. Having two family members being mentors, I've witnessed the feelings of frustration about the lack of student involvement. Without that involvement the mentors have to make up for it and it puts more on your mentors that are already volunteering their time."
 - "I think the first couple years might be harder for students to report to other students but I think that's just because it will be new and returning students and mentors won't be used to that idea. If you implement this structure I think it would be really important for all the mentors to be in on it because once you have a mentor not follow the structure, then the students think they won't have to follow it either."
+
 
