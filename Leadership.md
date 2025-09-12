@@ -134,7 +134,7 @@ I reached out to a few more recent alumni and collect some feedback and opinions
 - "It felt like last year, there were a few people doing the majority of the work, both because they had the most experience with it and they were the most motivated. Having some defined titles would definitely help motivate those people and give them a specific topic to gain experience in. I can definitely imagine some of my peers, in the listed positions. I think it would also make them feel more included, since some times they were bummed not to have a have a drive team title."
 - "I think that greatly depends on the student providing the task as well as who it is being received from. I can definitely see students letting a title get to their head. Or only taking tasks/ orders from the person they were assigned to. But I think overall, assuming the students trust that their leader has a good understanding of the project, it would work well."
 
-#### Victoria Truelove
+#### Unnamed 2024-2025 MARS/WARS Alumni
 - “I really like this idea! Looking at this from a career perspective, this would not only look great on a resume, but give students a lot of leadership experience and a better idea of what it is like in a career environment."
 - "As long as the team makes sure the ideas and concerns of those working under students are still heard and considered, I think it'd work well!"
 
