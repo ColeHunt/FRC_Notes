@@ -138,7 +138,7 @@ I reached out to a few more recent alumni and collect some feedback and opinions
 - “I really like this idea! Looking at this from a career perspective, this would not only look great on a resume, but give students a lot of leadership experience and a better idea of what it is like in a career environment."
 - "As long as the team makes sure the ideas and concerns of those working under students are still heard and considered, I think it'd work well!"
 
-### Ty Bequette
+#### Ty Bequette
 - I would have been for something like this, I think it would good to give the students who spend a lot more time working on the team some sort of title or responsibility. It makes the team more like an engineering job/college club which I like. Might have to be wary of how much work this ends up being for the leading students but I'm sure they'll figure it out.
 - I think the students would like it, it would encourage a lot more learning/communication between the students and make it so they didn't always have to go to the mentors for everything. There might not always be enough students on all of the subteams (especially programming) to fill out these roles properly, so it would have to be flexible.
 - I think that if the leading student acted as a sort of in-between mentor and worked with the younger students on the parts of projects then it might be easier for the younger students to learn and take on tasks. You would have to emphasize to the leading student that they shouldn't try to take over and do everything themselves.
