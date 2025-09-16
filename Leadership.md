@@ -114,6 +114,15 @@ General members of this group will work on all elements of business services. An
       - Nathan Stanley
       - Will Rajtora
       - Callumn McGrane
+      - Hailey Krager
+      - Graham Monckton
+      - Natalie Tabor
+      - Zach Alwardt
+      - Jude Mischler
+      - Maxwell Russell
+      - Mitchel Wilke
+      - Nick Stanley
+      - Carter Schroff
 
   - How are the kids going to make big directional decisions?
     - We aren't going to ask the kids to make decision like "ground pickup design or total robot architecture". The idea is that they just have a seat at the table and are present when mentors are making these decisions. They then relay and "manage" a group/project to complete the concept.
@@ -150,6 +159,7 @@ I reached out to a few more recent alumni and collect some feedback and opinions
 - "The leadership roles would help build non-technical skills. The technical knowledge is a lot of what FIRST hopes to give the students but there is a lot to say for someone in the workforce that has soft skills. From my experience, having these soft skills, like leadership is very important when it comes to interviews. I had to interview for my degree program and a lot of questions had to deal with how I work in a team and leadership skills.
 Not only would the leadership roles benefit the team and students, but it would also benefit the mentors. Having two family members being mentors, I've witnessed the feelings of frustration about the lack of student involvement. Without that involvement the mentors have to make up for it and it puts more on your mentors that are already volunteering their time."
 - "I think the first couple years might be harder for students to report to other students but I think that's just because it will be new and returning students and mentors won't be used to that idea. If you implement this structure I think it would be really important for all the mentors to be in on it because once you have a mentor not follow the structure, then the students think they won't have to follow it either."
+
 
 
 
