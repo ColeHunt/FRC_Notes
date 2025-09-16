@@ -13,7 +13,6 @@ config:
 ---
 flowchart TD
     Captain["Captain"]
-    RobotLead["Robot Lead"]
     BusinessLead["Business Lead"]
 
     SoftwareLead["Controls Lead"]
@@ -34,19 +33,18 @@ flowchart TD
 
 
     subgraph "Core Leadership"
-    Captain --> RobotLead
+    Captain --> SoftwareLead
+    Captain --> SubsystemLead
     Captain --> BusinessLead
     Captain --> CoreRep
     end
 
     subgraph "Software Team"
-    RobotLead --> SoftwareLead
     SoftwareLead --> VisionLead
     SoftwareLead --> ScoutingAppLead
     end
 
     subgraph "Design Team"
-    RobotLead --> SubsystemLead
     SubsystemLead --> SubsystemLead1
     SubsystemLead --> SubsystemLead2
     SubsystemLead --> SubsystemLead3
@@ -152,5 +150,6 @@ I reached out to a few more recent alumni and collect some feedback and opinions
 - "The leadership roles would help build non-technical skills. The technical knowledge is a lot of what FIRST hopes to give the students but there is a lot to say for someone in the workforce that has soft skills. From my experience, having these soft skills, like leadership is very important when it comes to interviews. I had to interview for my degree program and a lot of questions had to deal with how I work in a team and leadership skills.
 Not only would the leadership roles benefit the team and students, but it would also benefit the mentors. Having two family members being mentors, I've witnessed the feelings of frustration about the lack of student involvement. Without that involvement the mentors have to make up for it and it puts more on your mentors that are already volunteering their time."
 - "I think the first couple years might be harder for students to report to other students but I think that's just because it will be new and returning students and mentors won't be used to that idea. If you implement this structure I think it would be really important for all the mentors to be in on it because once you have a mentor not follow the structure, then the students think they won't have to follow it either."
+
 
 
