@@ -34,7 +34,7 @@ Eli -> Concern over leading the entire team
 Should we pre-define roles?
 - We have people that "step up" right now
 - What do they lead?
-- Goal is to have them 
+- Goal is to have them lead
 
 Consensus on liking subteam leads
 - Design doesn't feel like they need one of the upper leads
