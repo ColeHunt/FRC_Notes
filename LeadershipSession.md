@@ -4,7 +4,9 @@ Jax -> seems a little more real-world
 
 Some concerns voiced over people being stuck as "grunts"
 
-How much technical work? -> no different from before
+How much technical work for leaders?
+- no different from before. 
+- Goal would be to add a little bit of assignment to the student's responsibility
 
 Is the design lead separate from the individual subsystems?
 - No the lead would still be on one of the four teams
@@ -42,20 +44,19 @@ Consensus on liking subteam leads
 - Comment from eli about moving the captain into one of the design, software or biz leads
 - Captain feels auxiliary
   - Maybe the leads pass the captain role
-  - 
 
-Maybe look at having the design subsystem leads be more technical
-
-What do we do about leaders that dont function?
+What do we do about leaders that don't function?
 - Open question
+- Talked about having a process where the students can discuss with the mentors
 
 Sub teams lost structure mid season last year
 - How would that work when teams start splitting
 - Should we structure a team later on in the season that is more hands on
 - Can have sub team leaders move people as needed
   - having the sub leads more project focused and less people focused would allow people to float as needed.
+  - This feedback was echoed several times
 
-Require chill people in leadership positions
+Require chill people in leadership positions?
 
 ## Cole T Personal notes
 Jax, Nate S and Eli are very attentive
